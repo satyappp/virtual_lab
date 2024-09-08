@@ -1,6 +1,7 @@
-# virtual_lab
+# Virtual Lab
 
-A new Flutter project.
+A flutter prototype created for a graduation project.
+
 
 ## Getting Started
 
